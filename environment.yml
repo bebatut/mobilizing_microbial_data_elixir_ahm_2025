@@ -1,0 +1,12 @@
+name: mobilizing_microbial_data_report
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  # Python
+  - jupyter
+  - pandas
+  - matplotlib
+  - seaborn
+  - adjust_text
